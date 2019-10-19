@@ -1,4 +1,9 @@
 
+
+
+
+
+
 function getAllInfo(testArr){
     
     let Obj = function(){
